@@ -59,7 +59,7 @@
 >
 >> Author: Wenmeng Yu, Hua Xu, Fanyang Meng, Yilin Zhu, Yixiao Ma,Jiele Wu, Jiyun Zou, Kaicheng Yang.
 >
->#### ACM MM 2020: [ MISA: Modality-Invariant and-Specific Representations for Multimodal Sentiment Analysis](./paper/MISA_Modality-Invariant_and-Specific_Representations_for_Multimodal_Sentiment_Analysis.pdf)
+>#### ACM MM 2020: [ MISA: Modality-Invariant and_Specific Representations for Multimodal Sentiment Analysis](./paper/MISA_Modality-Invariant_and-Specific_Representations_for_Multimodal_Sentiment_Analysis.pdf)
 >
 >> Author: Devamanyu Hazarika,  Roger Zimmermann,  Soujanya Poria.
 
