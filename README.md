@@ -72,7 +72,7 @@
 >
 >> Author:   Guimin Hu, Ting-En Lin, Yi Zhao ,Guangming Lu, Yuchuan Wu, Yongbin Li.
 >
->#### NAACL 2022: [ Analyzing Modality Robustness in Multimodal Sentiment Analysis](./paper/2022.emnlp-main.534.pdf)
+>#### NAACL 2022: [ Analyzing Modality Robustness in Multimodal Sentiment Analysis](./paper/2022.naacl-main.50.pdf)
 >
 >> Author:   Devamanyu Hazarika, Yingting Li, Bo Cheng, Shuai Zhao, Roger Zimmermann, Soujanya Poria.
 >
