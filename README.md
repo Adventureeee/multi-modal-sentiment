@@ -68,7 +68,7 @@
 >
 >> Author:   Hao Yang, Yanyan Zhao, Bing Qin.
 >
->#### EMNLP 2022: [UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition](./paper/2022.naacl-main.50.pdf)
+>#### EMNLP 2022: [UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition](./paper/2022.emnlp-main.534.pdf)
 >
 >> Author:   Guimin Hu, Ting-En Lin, Yi Zhao ,Guangming Lu, Yuchuan Wu, Yongbin Li.
 >
